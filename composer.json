@@ -1,0 +1,21 @@
+{
+    "name": "omerfarukbicer0446/doviz",
+    "description": "Türk lira sına karşılık gelen para değerlerini geriye dündürür",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://github.com/omerfarukbicer0446/doviz",
+    "keywords": ["doviz","tr to usd","kur çevirici"],
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Doviz\\": "src/"
+        }
+    },
+    "require": {}
+}
