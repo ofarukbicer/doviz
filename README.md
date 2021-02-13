@@ -24,7 +24,7 @@ $get = $doviz->get("all"); // tüm kayıtları listeler.
 
 $first_get = $doviz->get("usd"); 
 
-/* Desteklenen diller için */
+/* Desteklenen paralar için */
 
 print_r($doviz->moneys);
 
